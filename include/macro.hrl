@@ -1,0 +1,1 @@
+-define(MULTIPLICAR(A,B,C),(A-(B*C))).
